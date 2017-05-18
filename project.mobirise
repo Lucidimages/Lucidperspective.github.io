@@ -31,7 +31,12 @@
     "headbody": "",
     "botbody": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "Lucidperspective",
+    "gitHubPath": "lucidimages"
   },
   "pages": {
     "index.html": {
@@ -543,7 +548,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Lucid Perspective."
+          "text": "Copyright (c) 2016 Lucid Perspective. All Rights Reserved."
         }
       ]
     },
@@ -1203,7 +1208,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "&nbsp;Copyright (c) 2017 . Lucid Mind Images."
+          "text": "Copyright (c) 2016 Lucid Perspective. All Rights Reserved."
         },
         {
           "_tags": [
