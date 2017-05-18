@@ -31,12 +31,7 @@
     "headbody": "",
     "botbody": "",
     "google-analytics": "",
-    "cookiesAlert": "",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "publishPath": "@PROJECT_PATH@",
-    "gitHubName": "Lucidperspective",
-    "gitHubPath": "lucidimages"
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
